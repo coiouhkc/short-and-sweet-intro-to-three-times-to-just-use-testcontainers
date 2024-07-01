@@ -1,42 +1,61 @@
-# Template for short-and-sweet lightning talks
-
-## Inspiration/background
-
-* https://www.chessable.com/chess-openings/s/short%20sweet
-* https://en.wikipedia.org/wiki/Lightning_talk
-
-## Why
-
-**If** you want to 
-
-* share a use-case/problem solution from your project
-* share experience with a technology/tool/framework
-* dive (deeper) into new topics
-* learn by doing
-
-**then** a lightning talk is what you need!
-
-The goal of the short-and-sweet talk is not to provide an extensive teach-in experience - it's about knowledge sharing and inspiration to dive deeper later.
-
-## What
-
-* slides (Markdown/AsciiDoc)
-  * you might want to use Marp (https://marpit.marp.app) in VSCode + Marp extension
-    * see also https://github.com/yhatt/marp-cli-example
-* code
-* script/helper snippers to speed up the demo
+---
+marp: true
+title: Short and sweet intro to 3 times to simply use Testcontainers
+description: Short and sweet intro to 3 times to simply use Testcontainers
+theme: uncover
+paginate: true
+_paginate: false
 
 
-## When
 
-TBD, most probably at lunch time aka 'Brown Bag Meeting' - simply announce and/or book the next available slot.
+---
 
-Overall duration should be around 15-30 mins to reserve enough time to come to the meat of the talk **and** to have 5-10 mins for Q&A
+# Short and sweet
 
-## How
+## 3 times to simply use Testcontainers
 
-* prepare the [What](##What)
-  * based on this template
-  * let https://github.com/OpenValue-D fork it
-* book the [When](##When)
-* and have fun
+Based on real project
+
+---
+
+# Intro, reason & background
+
+* He was an integration/component test
+* She was a test container
+* Can I make it any more obvious?
+
+---
+
+# 
+
+![images/8vj9bf.jpg](images/8vj9bf.jpg)
+
+---
+
+# One
+
+https://github.com/vorburger/MariaDB4j
+
+<!-- Download binaries from official task via Ant wrapped in Maven, Win/*nix only -->
+
+---
+
+# Two
+
+https://github.com/kstyrc/embedded-redis
+
+<!-- Download outdated binaries from GitHub, no native aarch64 for M1/2/3 -->
+
+---
+
+# Three
+
+https://github.com/h2database/h2database
+
+<!-- Misconfiguration lead to H2 being used in PROD -->
+
+---
+
+# Q&A
+
+More?
