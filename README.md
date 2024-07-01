@@ -32,6 +32,13 @@ Based on real project
 
 ---
 
+# Disclaimer
+
+* No disrespect meant, no harm intended
+* All tools listed below have their purpose and scope
+
+---
+
 # One
 
 https://github.com/vorburger/MariaDB4j
