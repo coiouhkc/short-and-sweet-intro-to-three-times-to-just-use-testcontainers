@@ -61,6 +61,16 @@ https://github.com/h2database/h2database
 
 <!-- Misconfiguration lead to H2 being used in PROD -->
 
+<!-- No stored procedure support -->
+
+---
+
+# Notable mention(s)
+
+https://github.com/stefanbirkner/fake-sftp-server-lambda
+
+<!-- atmoz:sftp, not runnable in Openshift oob -->
+
 ---
 
 # Q&A
