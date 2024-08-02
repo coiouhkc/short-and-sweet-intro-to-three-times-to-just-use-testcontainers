@@ -63,6 +63,8 @@ https://github.com/h2database/h2database
 
 <!-- No stored procedure support -->
 
+<!-- hibernate.hbm2ddl_auto=create instead of Flyway -->
+
 ---
 
 # Notable mention(s)
